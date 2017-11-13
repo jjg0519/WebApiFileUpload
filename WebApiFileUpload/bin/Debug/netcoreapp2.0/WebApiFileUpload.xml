@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiFileUpload</name>
+    </assembly>
+    <members>
+        <member name="T:WebApiFileUpload.Controllers.ValuesController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:WebApiFileUpload.Controllers.ValuesController.PostFile(Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            
+            </summary>
+            <param name="uploadedFile"></param>
+        </member>
+    </members>
+</doc>

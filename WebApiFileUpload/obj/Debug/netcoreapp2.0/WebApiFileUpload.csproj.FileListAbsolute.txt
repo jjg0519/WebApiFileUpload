@@ -1,0 +1,12 @@
+H:\11-ARTIGOS_BLOG\WebApiNetCoreUploadFile\src\WebApiFileUpload\WebApiFileUpload\bin\Debug\netcoreapp2.0\WebApiFileUpload.deps.json
+H:\11-ARTIGOS_BLOG\WebApiNetCoreUploadFile\src\WebApiFileUpload\WebApiFileUpload\bin\Debug\netcoreapp2.0\WebApiFileUpload.runtimeconfig.json
+H:\11-ARTIGOS_BLOG\WebApiNetCoreUploadFile\src\WebApiFileUpload\WebApiFileUpload\bin\Debug\netcoreapp2.0\WebApiFileUpload.runtimeconfig.dev.json
+H:\11-ARTIGOS_BLOG\WebApiNetCoreUploadFile\src\WebApiFileUpload\WebApiFileUpload\bin\Debug\netcoreapp2.0\WebApiFileUpload.dll
+H:\11-ARTIGOS_BLOG\WebApiNetCoreUploadFile\src\WebApiFileUpload\WebApiFileUpload\bin\Debug\netcoreapp2.0\WebApiFileUpload.pdb
+H:\11-ARTIGOS_BLOG\WebApiNetCoreUploadFile\src\WebApiFileUpload\WebApiFileUpload\obj\Debug\netcoreapp2.0\WebApiFileUpload.csprojResolveAssemblyReference.cache
+H:\11-ARTIGOS_BLOG\WebApiNetCoreUploadFile\src\WebApiFileUpload\WebApiFileUpload\obj\Debug\netcoreapp2.0\WebApiFileUpload.csproj.CoreCompileInputs.cache
+H:\11-ARTIGOS_BLOG\WebApiNetCoreUploadFile\src\WebApiFileUpload\WebApiFileUpload\obj\Debug\netcoreapp2.0\WebApiFileUpload.AssemblyInfoInputs.cache
+H:\11-ARTIGOS_BLOG\WebApiNetCoreUploadFile\src\WebApiFileUpload\WebApiFileUpload\obj\Debug\netcoreapp2.0\WebApiFileUpload.AssemblyInfo.cs
+H:\11-ARTIGOS_BLOG\WebApiNetCoreUploadFile\src\WebApiFileUpload\WebApiFileUpload\obj\Debug\netcoreapp2.0\WebApiFileUpload.dll
+H:\11-ARTIGOS_BLOG\WebApiNetCoreUploadFile\src\WebApiFileUpload\WebApiFileUpload\obj\Debug\netcoreapp2.0\WebApiFileUpload.pdb
+H:\11-ARTIGOS_BLOG\WebApiNetCoreUploadFile\src\WebApiFileUpload\WebApiFileUpload\bin\Debug\netcoreapp2.0\WebApiFileUpload.xml
